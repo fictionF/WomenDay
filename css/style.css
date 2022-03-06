@@ -28,7 +28,7 @@ body {
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
     --color-link-hover: #fff;
-    --color-content-title-sub: #6b5537;
+    --color-content-title-sub: #ec43c2;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: #6b5537;
@@ -222,11 +222,11 @@ a:focus {
 }
 
 .pos-2 {
-    grid-area: 4 / 19 / 15 / 27;
+    grid-area: 4 / 20 / 15 / 28;
 }
 
 .pos-3 {
-    grid-area: 1 / 36 / 14 / 42;
+    grid-area: 1 / 35 / 15 / 41;
 }
 
 .pos-4 {
@@ -234,7 +234,7 @@ a:focus {
 }
 
 .pos-5 {
-    grid-area: 17 / 32 / 32 / 38;
+    grid-area: 17 / 33 / 32 / 39;
 }
 
 .pos-6 {
@@ -250,11 +250,11 @@ a:focus {
 }
 
 .pos-9 {
-    grid-area: 38 / 26 / 49 / 32;
+    grid-area: 38 / 26 / 48 / 33;
 }
 
 .pos-10 {
-    grid-area: 37 / 39 / 48 / 47;
+    grid-area: 37 / 40 / 48 / 47;
 }
 
 .content__title {
